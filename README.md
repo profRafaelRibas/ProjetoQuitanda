@@ -61,6 +61,7 @@ Contribuições são bem-vindas. Sinta-se à vontade para fazer um fork do repos
 
 - [João Paulo]: Instrutor de Programação Web Back-End.
 
+- [Aluno]: Autor do projeto
 ---
 
 © [2023] Sesi Senai Itapeva
